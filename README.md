@@ -4,6 +4,10 @@
 
 Téléchargez le module hibernate core (version 3.3.2). Puis associer les librairies nécessaires à Hibernate pour synchroniser les objets en mémoire et les enregistrements en base de données
 
+- IDE Eclipse
+- Serveur Appach XAAMP
+- PHPMyAdmin
+
 <strong>INSTALATION</strong>
 
 Installer Eclipse puis lancer le projet demojpa
